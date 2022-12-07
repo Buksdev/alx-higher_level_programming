@@ -17,4 +17,4 @@ def roman_to_int(roman_string):
             i += 1
         total += num_map[roman_string[i]]
         return total
-    return 0 
+    return 0
